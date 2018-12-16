@@ -1,0 +1,34 @@
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\Senka_QAkurs.dll.config
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\Senka_QAkurs.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\Senka_QAkurs.pdb
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\nunit.framework.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\System.ValueTuple.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.Support.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\nunit.framework.xml
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.xml
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.Support.xml
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\obj\Debug\Senka_QAkurs.csprojResolveAssemblyReference.cache
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\obj\Debug\Senka_QAkurs.dll
+C:\Users\korisnik\Documents\Senka QA kurs\Senka_QAkurs\Senka_QAkurs\obj\Debug\Senka_QAkurs.pdb
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\Senka_QAkurs.dll.config
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\Senka_QAkurs.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\Senka_QAkurs.pdb
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\nunit.framework.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.Support.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\nunit.framework.xml
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.xml
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\bin\Debug\WebDriver.Support.xml
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\obj\Debug\Senka_QAkurs.dll
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\obj\Debug\Senka_QAkurs.pdb
+C:\Users\Milosh\DEV\Senka_QAkurs\Senka_QAkurs\obj\Debug\Senka_QAkurs.csprojResolveAssemblyReference.cache
