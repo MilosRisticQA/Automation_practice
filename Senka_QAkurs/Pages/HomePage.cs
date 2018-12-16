@@ -13,6 +13,7 @@ namespace Senka_QAkurs.Pages
         readonly IWebDriver driver;
 
         public By SignIn = By.ClassName("login");
+        public By Dresses = By.XPath("//*[@id='block_top_menu']/ul/li[2]/a");
 
         public HomePage(IWebDriver driver)
         {

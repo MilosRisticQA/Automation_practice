@@ -28,4 +28,4 @@ Scenario: User can create an account
 	When submits the sign up form
 	Then user will be logged in
 	Given user's full name is displayed
-	 
+	
